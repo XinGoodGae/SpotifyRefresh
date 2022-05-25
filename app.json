@@ -1,6 +1,6 @@
 {
-  "name": "Spotify Token Service",
-  "description": "A Spotify Token Swap/Refresh Service for easy deployment to Heroku.",
+  "name": "GayApp",
+  "description": "FullyGay",
   "repository": "https://github.com/XinGoodGae/SpotifyRefresh",
   "keywords": ["Sinatra", "spotify", "token"],
    "env": {
